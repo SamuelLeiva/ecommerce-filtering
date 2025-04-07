@@ -4,11 +4,13 @@ import Products from "./Products/Products";
 import Recommended from "./Recommended/Recommended";
 
 const App = () => {
-  return (<>
-    <Navigation/>
-    <Products />
-    <Recommended />
-  </>);
+  return (
+    <>
+      <Navigation />
+      <Recommended />
+      <Products />
+    </>
+  );
 };
 
 export default App;
