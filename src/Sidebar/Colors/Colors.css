@@ -2,6 +2,10 @@
     margin-top: 2rem;
 } */
 
+.colors-container {
+    margin-right: 10px;
+}
+
 .all {
     background: linear-gradient(blue, crimson);
 }
